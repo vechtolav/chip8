@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="200"
+  height="200"
+  viewBox="0 0 200 200"
+>
+  <!-- Place shapes and graphics here -->
+  <line x1="0" y1="100" x2="90" y2="100" stroke="black" stroke-width="3" />
+  <line x1="110" y1="100" x2="200" y2="100" stroke="black" stroke-width="3" />
+  <line x1="90" y1="50" x2="90" y2="150" stroke="black" stroke-width="3" /> 
+  <line x1="110" y1="75" x2="110" y2="125" stroke="black" stroke-width="3" />
+  <text x="60" y="75" font-size="25" font-weight="900" >+</text>
+  <text x="120" y="60" font-size="50" rotate="90" >-</text>
+  <circle cx="6" cy="100" r="5" fill="white"
+    stroke="black"
+    stroke-width="3"/>
+  <circle cx="194" cy="100" r="5" fill="white"
+    stroke="black"
+    stroke-width="3"/>
+
+</svg>
